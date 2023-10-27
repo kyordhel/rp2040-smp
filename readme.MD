@@ -3,7 +3,8 @@ SMP Exercises in C with FreeRTOS for the RP2040 using either the Raspberry Pi Pi
 Minimum setup possible (so far) using CMake.
 
 ## Contents:
-- `hello-multicore`: The Hello-World! using BOTH CORES of the RP2040 with pure FreeRTOS.
+- `hello-multicore`:   The Hello-World! using BOTH CORES of the RP2040 with pure FreeRTOS.
+- `producer-consumer`: A simple SMP producer-consumer example.
 
 Nothing else so far.
 

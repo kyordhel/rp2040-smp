@@ -8,4 +8,5 @@ include(freeRTOS_import.cmake)
 PROJECT(rp2040smp)
 
 add_subdirectory(hello-multicore)
+add_subdirectory(producer-consumer)
 
